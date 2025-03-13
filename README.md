@@ -13,3 +13,4 @@ I'm a curious computer engineering student who is part of the driverless divisio
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeCapovilla&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/felipeCapovilla/felipeCapovilla/blob/output/github-snake-dark.svg)
